@@ -66,10 +66,10 @@
             <li><a href="#tf-home" class="page-scroll">Home</a></li>
             <li><a href="#tf-about" class="page-scroll">About</a></li>
             <li><a href="#tf-team" class="page-scroll">Committee</a></li>
-            <li><a href="#tf-services" class="page-scroll">Expo</a></li>
+            <li><a href="#tf-services" class="page-scroll">Competition</a></li>
             <li><a href="#tf-clients" class="page-scroll">Partners</a></li>
-            <li><a href="#tf-works" class="page-scroll">Competition</a></li>
-            <li><a href="#tf-testimonials" class="page-scroll">Timeline</a></li>
+            <li><a href="#tf-works" class="page-scroll">Registration</a></li>
+            <li><a href="#tf-testimonials" class="page-scroll">FAQ</a></li>
             <li><a href="#tf-contact" class="page-scroll">Contact Us</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
@@ -82,7 +82,7 @@
         <div class="overlay">
             <div class="content">
                 <img width=150 height=160 src='assets/img/logo/explosif_putih2.png' top=150/>
-                <h1><strong><span class="color">EXPLOSIF 2015</span></strong></h1>
+                <h1>Coming Soon <strong><span class="color">EXPLOSIF 2015</span></strong></h1>
                 <p class="lead">Talkshow - Competitions - Expo</p>
                 <a href="#tf-about" class="fa fa-angle-down page-scroll"></a>
             </div>
@@ -125,7 +125,6 @@
                     </div>
                 </div>
             </div>
-            
         </div>
     </div>
 
@@ -791,7 +790,7 @@
     <div id="tf-services" class="text-center">
         <div class="container">
             <div class="section-title center">
-                <h2>Our <strong>Techno Expo 2015</strong></h2>
+                <h2>Our <strong>Competition</strong></h2>
                 <div class="line">
                     <hr>
                 </div>
@@ -800,7 +799,20 @@
             </div>
             <div class="space"></div>
             <div class="row">
-                <img src="assets/img/expo.jpg">
+                <div class="col-md-4 col-sm-6 service">
+                    <i class="fa fa-bar-chart"></i>
+                    <h4><strong>Start Up Business</strong></h4>
+                </div>
+
+                <div class="col-md-4 col-sm-6 service">
+                    <i class="fa fa-laptop"></i>
+                    <h4><strong>Software Development</strong></h4>
+                </div>
+
+                <div class="col-md-4 col-sm-6 service">
+                    <i class="fa fa-group"></i>
+                    <h4><strong>Tugas Besar Terbaik</strong></h4>
+                </div>
             </div>
         </div>
     </div>
@@ -817,95 +829,21 @@
                         <hr>
                     </div>
                 </div>
-                <h5>Presented By:</h5>
-                <div class="col-lg-4">
+                <div id="clients" class="owl-carousel owl-theme">
                     <div class="item">
-                        <img width=80 height=80 src="assets/img/logo/telu.png">
+                        <img src="assets/img/partners/empty.png">
                     </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="item">
-                        <img width=75 height=60 src="assets/img/logo/himaif.png">
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="item">
-                        <img width=90 height=80 src="assets/img/logo/explosif.png">
-                    </div>
-                </div>
-                <br></br>
-                <h5>Sponsored By:</h5>
-                <div class="col-lg-6">
                     <div class="item">
                         <img src="assets/img/partners/bdv.png">
                     </div>
-                </div>
-                <div class="col-lg-6">
                     <div class="item">
-                        <img height=55 width=150 src="assets/img/partners/telkomakses.png">
+                        <img src="assets/img/partners/empty.png">
                     </div>
-                </div>
-                <br></br>
-                <h5>Supported By:</h5>
-                <div class="col-lg-6">
                     <div class="item">
-                        <a href="http://idcloudhost.com">
-                            <img src="assets/img/partners/cloudhost.png">
-                        </a>
+                        <img src="assets/img/partners/cloudhost.png">
                     </div>
-                </div>
-                <div class="col-lg-6">
                     <div class="item">
-                        <img height=55 width=140 src="assets/img/partners/samsung.png">
-                    </div>
-                </div>
-                <br></br>
-                <h5>Media Partner:</h5>
-                <div class="col-lg-4">
-                    <div class="item">
-                        <img height=45 width=150 src="assets/img/partners/bandungex.png">
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="item">
-                        <img width=60 height=60 src="assets/img/partners/bb.jpg">
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="item">
-                        <img height=45 width=140 src="assets/img/partners/aksara.jpg">
-                    </div>
-                </div>
-                <br></br>
-                 <br></br>
-                <div class="col-lg-2">
-                    <div class="item">
-                        <img width=60 height=60 src="assets/img/partners/stelkom.png">
-                    </div>
-                </div>
-                <div class="col-lg-2">
-                    <div class="item">
-                        <img width=60 height=60 src="assets/img/partners/inews.png">
-                    </div>
-                </div>
-                <div class="col-lg-2">
-                    <div class="item">
-                        <img width=60 height=60 src="assets/img/partners/mk.jpg">
-                    </div>
-                </div>
-                <div class="col-lg-2">
-                    <div class="item">
-                        <img width=60 height=60 src="assets/img/partners/thits.jpg">
-                    </div>
-                </div>
-                <div class="col-lg-2">
-                    <div class="item">
-                        <img width=60 height=60 src="assets/img/partners/bdg.jpg">
-                    </div>
-                </div>
-                <div class="col-lg-2">
-                    <div class="item">
-                        <img width=60 height=60 src="assets/img/partners/indohits.jpg">
+                        <img src="assets/img/partners/empty.png">
                     </div>
                 </div>
             </div>
@@ -914,79 +852,21 @@
 
     <!-- Registration
     ==========================================-->
-    <div id="tf-works" class="text-center">
+    <div id="tf-works">
         <div class="container"> <!-- Container -->
             <div class="section-title text-center center">
-                <h2><strong>Finalis Competition<strong></h2>
+                <h2><strong>REGISTRATION<strong></h2>
                 <div class="line">
                     <hr>
                 </div>
                 <div class="clearfix"></div>
                 <small><em>"Sometimes when you innovate, you make mistakes. It is best to admit the quickly, and get on with improving your other innovations." -Steve Jobs</em></small>
             </div>
-            <div class="row">
-                <h5>Start Up Business:</h5>
-                <div class="col-lg-4 col-md-6">
-                    <div class="item">
-                        <img height=55 width=150 src="assets/img/startup/insphe.jpg">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="item">
-                        <img height=55 width=150 src="assets/img/startup/nasi.jpg">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="item">
-                        <img height=55 width=150 src="assets/img/startup/vola.jpg">
-                    </div>
-                </div>
-                <br></br>
-                <br></br>
-                <h5>Tugas Besar:</h5>
-                <div class="table-responsive">
-                <table class="table table-bordered table-hover">
-                    <thead>
-                        <tr>
-                            <th></th>
-                            <th>Kelas</th>
-                            <th>Nama Tubes</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>DAP</td>
-                            <td>IF 38-02</td>
-                            <td>Resolute</td>
-                        </tr>
-                        <tr>
-                            <td>DAP</td>
-                            <td>IF 38-04</td>
-                            <td>2048</td>
-                        </tr>
-                        <tr>
-                            <td>RPL</td>
-                            <td>IF 37-08</td>
-                            <td>Upsee</td>
-                        </tr>
-                        <tr>
-                            <td>RPL</td>
-                            <td>IF 37-03</td>
-                            <td>Jabrig</td>
-                        </tr>
-                        <tr>
-                            <td>RPL OOT</td>
-                            <td>IF 36-01</td>
-                            <td>Day Call Out</td>
-                        </tr>
-                        <tr>
-                            <td>RPL OOT</td>
-                            <td>IF 36-01</td>
-                            <td>Fuzzy Forecasting</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
+            <div class="space"></div>
+            <div class="reg">
+                <h5><strong>Registration will open soon</strong></h5>
+                <h5>Please check back soon on this website</h5>
+                <h5>Thankyou</h5>
             </div>
         </div>
     </div>
@@ -997,40 +877,28 @@
         <div class="overlay">
             <div class="container">
                 <div class="section-title center">
-                    <h2><strong>TIMELINE</strong></h2>
+                    <h2><strong>FAQ</strong></h2>
                     <div class="line">
                         <hr>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-12">
-                        <div class="container">
-                            <table class="table">
-                                <thead >
-                                    <tr>
-                                        <th>Tanggal</th>
-                                        <th>Kegiatan</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>19 September 2015</td>
-                                        <td>Talkshow</td>
-                                    </tr>
-                                    <tr>
-                                        <td>10 Oktober 2015</td>
-                                        <td>Penutupan pendaftaran lomba</td>
-                                    </tr>
-                                    <tr>
-                                        <td>24 Oktober 2015</td>
-                                        <td>Final Lomba</td>
-                                    </tr>
-                                    <tr>
-                                        <td>24 Nopember 2015</td>
-                                        <td>Expo</td>
-                                    </tr>
-                                </tbody>
-                            </table>
+                    <div class="col-md-8 col-md-offset-2">
+                        <div id="testimonial" class="owl-carousel owl-theme">
+                            <div class="item">
+                                <h5>Apakah lomba ini terbuka untuk umum?</h5>
+                                <p><strong>Tidak</strong>, lomba ini diperuntukan untuk mahasiswa diseluruh Indonesia.</p>
+                            </div>
+
+                            <div class="item">
+                                <h5>Apakah lomba tugas besar juga bisa diikuti oleh mahasiswa non Telkom University?</h5>
+                                <p><strong>Tidak</strong>, untuk kategori tugas besar hanya diperuntukan mahasiswa S1 Teknik Informatika Telkom University.</p>
+                            </div>
+
+                            <div class="item">
+                                <h5>Apakah lomba kategori start up business dan software development boleh diikuti oleh mahasiswa dengan jurusan non informatika</h5>
+                                <p><strong>Boleh</strong>.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
